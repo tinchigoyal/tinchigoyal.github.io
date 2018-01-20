@@ -1,0 +1,33 @@
+@media screen and (max-width: 1000px) and (min-width: 650px) {
+    .nav-pills>li{
+        width:24%;
+    }
+
+}
+@media screen and (max-width: 650px) and (min-width: 0px) {
+    .nav-pills>li{
+        width:100%;
+    }
+
+}
+
+@media screen and (max-width: 1000px) and (min-width: 800px) {
+   .abs-ps{
+       padding:1% 13%;
+   }
+}
+@media screen and (max-width: 800px) and (min-width: 500px) {
+    .abs-ps{
+        padding:5% 10%;
+    }
+}
+@media screen and (max-width: 500px) and (min-width: 380px) {
+    .abs-ps{
+        padding:1% 13%;
+    }
+}
+@media screen and (max-width: 380px) and (min-width: 380px) {
+    .abs-ps{
+        padding:0% 13%;
+    }
+}
