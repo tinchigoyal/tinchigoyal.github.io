@@ -478,9 +478,17 @@ i:hover{
     margin-bottom: 0;
     font-size: 16px;
     padding: 15px 35px;
-
 }
-a:hover{
+.btn1{
+    border:none;
+    border-radius:40px;
+    background-color:white;
+    margin-top: 40px;
+    margin-bottom: 0;
+    font-size: 16px;
+    padding: 15px 35px;
+}
+a.btn1:hover{
     background-color:#6778C1;
     color:white !important;
     text-decoration:none;
