@@ -645,3 +645,6 @@ p{
 .dg-color{
     color: darkgrey;
 }
+i.fa-foo:hover{
+    background-color: transparent;
+}
