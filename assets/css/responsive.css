@@ -31,3 +31,8 @@
         padding:0% 13%;
     }
 }
+@media screen and (max-width: 770px) and (min-width: 0px) {
+    .new-pd{
+        padding-top:40px;
+    }
+}
